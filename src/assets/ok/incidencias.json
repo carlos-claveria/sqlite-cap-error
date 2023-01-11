@@ -1,0 +1,126 @@
+ [
+    {
+        "cincid": 0,
+        "incidencia": "Sin Incidencia"
+    },
+    {
+        "cincid": 1,
+        "incidencia": "Lectura menor que la ante"
+    },
+    {
+        "cincid": 2,
+        "incidencia": "Lectura igual que la ante"
+    },
+    {
+        "cincid": 3,
+        "incidencia": "Lectura no introducida"
+    },
+    {
+        "cincid": 4,
+        "incidencia": "Cerrado - Aviso"
+    },
+    {
+        "cincid": 5,
+        "incidencia": "Contador no funciona"
+    },
+    {
+        "cincid": 6,
+        "incidencia": "Volver"
+    },
+    {
+        "cincid": 7,
+        "incidencia": "Pierde Llave o válvula"
+    },
+    {
+        "cincid": 8,
+        "incidencia": "Precinto roto sin aviso"
+    },
+    {
+        "cincid": 9,
+        "incidencia": "Fuga avisada"
+    },
+    {
+        "cincid": 10,
+        "incidencia": "Fuga-llave cerrada"
+    },
+    {
+        "cincid": 11,
+        "incidencia": "Fuga-llave rota"
+    },
+    {
+        "cincid": 12,
+        "incidencia": "No acceso"
+    },
+    {
+        "cincid": 13,
+        "incidencia": "Material no autorizado"
+    },
+    {
+        "cincid": 14,
+        "incidencia": "Válvula después"
+    },
+    {
+        "cincid": 15,
+        "incidencia": "Doblar"
+    },
+    {
+        "cincid": 16,
+        "incidencia": "Contador cambiado"
+    },
+    {
+        "cincid": 17,
+        "incidencia": "Error lectura"
+    },
+    {
+        "cincid": 20,
+        "incidencia": "contador mal en ruta"
+    },
+    {
+        "cincid": 21,
+        "incidencia": "Lectura estimada"
+    },
+    {
+        "cincid": 22,
+        "incidencia": "Contador quitado"
+    },
+    {
+        "cincid": 23,
+        "incidencia": "Contador no puesto"
+    },
+    {
+        "cincid": 30,
+        "incidencia": "Exceso consumo agrícola"
+    },
+    {
+        "cincid": 35,
+        "incidencia": "LoraWan no activado"
+    },
+    {
+        "cincid": 40,
+        "incidencia": "Modificado, Resolución ac"
+    },
+    {
+        "cincid": 50,
+        "incidencia": "mas de 50 m3 de consumo"
+    },
+    {
+        "cincid": 88,
+        "incidencia": "Precinto contador quitado"
+    },
+    {
+        "cincid": 90,
+        "incidencia": "Sin cabezal (roto)"
+    },
+    {
+        "cincid": 98,
+        "incidencia": "Humedad en contador digit"
+    },
+    {
+        "cincid": 99,
+        "incidencia": "Contadores sin arqueta"
+    },
+    {
+        "cincid": 100,
+        "incidencia": "Vía radio quitado"
+    }
+]

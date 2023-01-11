@@ -1,0 +1,57 @@
+$maxWidth: 750px;
+
+ion-content {
+    //--background: linear-gradient(to bottom,#fda085 0%, #f6d365 100%);
+    //--background: linear-gradient(to bottom, #fa709a 0%, #fee140 100%);
+    // --background: linear-gradient(
+    //     335deg,
+    //     hsl(240deg 9% 98%) 0%,
+    //     hsl(271deg 7% 94%) 13%,
+    //     hsl(310deg 6% 90%) 25%,
+    //     hsl(335deg 8% 87%) 37%,
+    //     hsl(352deg 10% 84%) 48%,
+    //     hsl(5deg 10% 80%) 59%,
+    //     hsl(16deg 11% 76%) 69%,
+    //     hsl(26deg 11% 72%) 79%,
+    //     hsl(37deg 9% 67%) 89%,
+    //     hsl(55deg 6% 63%) 100%
+    //   );
+
+      --background: linear-gradient(
+        50deg,
+        hsl(0deg 0% 80%) 0%,
+        hsl(34deg 11% 80%) 12%,
+        hsl(34deg 22% 81%) 23%,
+        hsl(35deg 33% 81%) 34%,
+        hsl(35deg 44% 81%) 46%,
+        hsl(35deg 55% 81%) 56%,
+        hsl(36deg 66% 81%) 67%,
+        hsl(36deg 77% 81%) 78%,
+        hsl(36deg 87% 81%) 89%,
+        hsl(37deg 98% 81%) 100%
+      );      
+
+}
+
+.logo {
+    width : 60%;
+    margin-top   : 7%;
+    margin-left  : 2%;
+    max-width: $maxWidth;
+}
+
+.logo-bk {
+    width : 90%;
+    margin-top   : 20%;
+    margin-left  : 4%;
+    margin-bottom: 20%;
+    max-width: $maxWidth;
+}
+
+.botones {
+    width : 100%;
+    margin-bottom: 20px;
+}
+
+
+  

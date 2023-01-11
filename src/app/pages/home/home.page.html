@@ -1,0 +1,45 @@
+
+<ion-header>
+
+  <ion-toolbar>
+
+    
+    <ion-buttons slot="start">
+      <ion-menu-button menu="mPrincipal"></ion-menu-button>
+    </ion-buttons>
+    
+    <ion-title>{{titulo}}</ion-title>
+
+    <ion-buttons slot="end">
+      <ion-button (click)="salir()">
+        <ion-icon slot="icon-only" color="danger" name="exit-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    
+  </ion-toolbar>
+
+</ion-header>
+
+
+<ion-content class="ion-padding content">
+  <ion-img class="logo" src="assets/img/logo-mobile.svg"></ion-img>
+
+
+  <ion-fab slot="fixed" horizontal="end" vertical="bottom">
+    <ion-fab-button (click)="evLeer()">
+      <ion-icon name="water-outline"></ion-icon>
+    </ion-fab-button>
+  </ion-fab>
+
+  <ion-fab slot="fixed" horizontal="start" vertical="bottom">
+    <ion-fab-button  (click)="evPartes()">
+      <ion-icon name="hammer-outline"></ion-icon>
+    </ion-fab-button>
+  </ion-fab>
+
+</ion-content>
+<ion-footer>
+  <ion-toolbar>
+    <ion-title size="small">&copy; Silicon Media SL 1999-{{ano}}</ion-title>
+  </ion-toolbar>
+</ion-footer>
